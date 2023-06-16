@@ -10,7 +10,7 @@ Image: This contains all the images used in this project
 
 PowerBI Report: This provides all the visualizations and reports on the project.
 
-Raw file.xlsx: This is the dataset for the project. This should be imported directly to pgadmin 4 environment.
+Raw file.xlsx: This is the dataset for the project.
 
 ## **Problem Statement**
 
